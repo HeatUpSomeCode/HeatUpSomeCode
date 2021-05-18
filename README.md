@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HeatUpSomeCode
+- 👀 I’m interested in developing software , especially by now java code for various simulation of goods.
+- 🌱 I’m currently learning Java,C,SQL
+- 💞️ I’m looking to collaborate on what im interested in.
+- 📫 How to reach me : you can conctact me over here , i check quite constantly here.
