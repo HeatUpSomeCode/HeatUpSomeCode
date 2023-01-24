@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeatUpSomeCode
 - 👀 I’m interested in developing software , especially by now java code for various simulation of goods.
-- Language I know : Java,C,SQL
-- 🌱 I’m currently learning Java,C,SQL ( never ending ) and also Python,C++
-- 💞️ I’m looking to collaborate on game development or simulation of various thing
+- Language I know : Java,C,SQL,Haskell
+- 🌱 I’m currently learning Java,C,SQL,Haskell ( never ending ) and also Python,C++
+- 💞️ I’m looking to collaborate on simulation of various thing
 - 📫 How to reach me : you can conctact me over here
